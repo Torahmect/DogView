@@ -1,0 +1,5 @@
+{
+  "name": "DogView: See Through Their Eyes",
+  "description": "An immersive tool that simulates how dogs perceive the world based on their breed size. It adjusts color spectrum (dichromatic vision) and perspective (height and angle) for both images and videos.",
+  "requestFramePermissions": []
+}
